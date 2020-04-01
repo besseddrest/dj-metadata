@@ -1,25 +1,82 @@
 {
-  "styles": [
-    "Funk"
-  ],
-  "genres": [
-    "Funk / Soul"
-  ],
+  "status": "Accepted",
   "videos": [
     {
       "duration": 456,
-      "description": "Are You Experienced? Check Our My Other Channels.\n\nThe Superb Classic Rock Experience (Coming Soon)\nhttps://www.youtube.com/channel/UC8L-...\n\nThe Superb 80's Music Experience (Coming Soon)\nhttps://www.youtube.com/channel/UC-TX...\n\nThe Superb Oldies Experi",
       "embed": true,
-      "uri": "https://www.youtube.com/watch?v=istJXUJJP0g",
-      "title": "James Brown - Payback"
+      "title": "James Brown - Payback",
+      "description": "Are You Experienced? Check Our My Other Channels. The Superb Classic Rock Experience (Coming Soon) https://www.youtube.com/channel/UC8L-... The Superb 80's Music Experience (Coming Soon) https://www.youtube.com/channel/UC-TX... The Superb Oldies Experi",
+      "uri": "https://www.youtube.com/watch?v=istJXUJJP0g"
     }
   ],
-  "num_for_sale": 114,
-  "title": "The Payback",
-  "most_recent_release": 9004526,
-  "main_release": 979747,
-  "main_release_url": "https://api.discogs.com/releases/979747",
-  "uri": "https://www.discogs.com/James-Brown-The-Payback/master/188093",
+  "series": [],
+  "labels": [
+    {
+      "name": "Polydor",
+      "entity_type": "1",
+      "catno": "PD 14223",
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "id": 1610,
+      "entity_type_name": "Label"
+    }
+  ],
+  "year": 1973,
+  "community": {
+    "status": "Accepted",
+    "rating": {
+      "count": 18,
+      "average": 4.61
+    },
+    "want": 197,
+    "contributors": [
+      {
+        "username": "Petrus",
+        "resource_url": "https://api.discogs.com/users/Petrus"
+      },
+      {
+        "username": "Diognes_The_Fox",
+        "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+      },
+      {
+        "username": "uzumaki",
+        "resource_url": "https://api.discogs.com/users/uzumaki"
+      },
+      {
+        "username": "Adolar",
+        "resource_url": "https://api.discogs.com/users/Adolar"
+      },
+      {
+        "username": "SJH",
+        "resource_url": "https://api.discogs.com/users/SJH"
+      },
+      {
+        "username": "blackbookpress",
+        "resource_url": "https://api.discogs.com/users/blackbookpress"
+      },
+      {
+        "username": "berothbr",
+        "resource_url": "https://api.discogs.com/users/berothbr"
+      },
+      {
+        "username": "n0r",
+        "resource_url": "https://api.discogs.com/users/n0r"
+      },
+      {
+        "username": "simione001",
+        "resource_url": "https://api.discogs.com/users/simione001"
+      },
+      {
+        "username": "W.B.",
+        "resource_url": "https://api.discogs.com/users/W.B."
+      }
+    ],
+    "have": 231,
+    "submitter": {
+      "username": "Petrus",
+      "resource_url": "https://api.discogs.com/users/Petrus"
+    },
+    "data_quality": "Needs Vote"
+  },
   "artists": [
     {
       "join": "",
@@ -31,10 +88,6 @@
       "id": 12596
     }
   ],
-  "versions_url": "https://api.discogs.com/masters/188093/versions",
-  "data_quality": "Correct",
-  "most_recent_release_url": "https://api.discogs.com/releases/9004526",
-  "year": 1973,
   "images": [
     {
       "uri": "",
@@ -61,9 +114,103 @@
       "uri150": ""
     }
   ],
-  "resource_url": "https://api.discogs.com/masters/188093",
-  "lowest_price": 0.95,
-  "id": 188093,
+  "format_quantity": 1,
+  "id": 979747,
+  "artists_sort": "James Brown",
+  "genres": [
+    "Funk / Soul"
+  ],
+  "thumb": "",
+  "num_for_sale": 19,
+  "title": "The Payback",
+  "date_changed": "2018-12-07T15:53:22-08:00",
+  "master_id": 188093,
+  "lowest_price": 4.5,
+  "styles": [
+    "Funk"
+  ],
+  "released_formatted": "1973",
+  "formats": [
+    {
+      "text": "Richmond Pressing",
+      "qty": "1",
+      "descriptions": [
+        "7",
+        "45 RPM",
+        "Single"
+      ],
+      "name": "Vinyl"
+    }
+  ],
+  "estimated_weight": 60,
+  "master_url": "https://api.discogs.com/masters/188093",
+  "released": "1973",
+  "date_added": "2007-10-25T15:11:11-07:00",
+  "extraartists": [
+    {
+      "join": "",
+      "name": "Fred Wesley",
+      "anv": "",
+      "tracks": "",
+      "role": "Arranged By",
+      "resource_url": "https://api.discogs.com/artists/29807",
+      "id": 29807
+    },
+    {
+      "join": "",
+      "name": "James Brown",
+      "anv": "",
+      "tracks": "",
+      "role": "Arranged By",
+      "resource_url": "https://api.discogs.com/artists/12596",
+      "id": 12596
+    },
+    {
+      "join": "",
+      "name": "Bob Ludwig",
+      "anv": "RL",
+      "tracks": "A",
+      "role": "Lacquer Cut By",
+      "resource_url": "https://api.discogs.com/artists/271098",
+      "id": 271098
+    },
+    {
+      "join": "",
+      "name": "James Brown",
+      "anv": "",
+      "tracks": "",
+      "role": "Producer",
+      "resource_url": "https://api.discogs.com/artists/12596",
+      "id": 12596
+    },
+    {
+      "join": "",
+      "name": "Fred Wesley",
+      "anv": "",
+      "tracks": "",
+      "role": "Written-By",
+      "resource_url": "https://api.discogs.com/artists/29807",
+      "id": 29807
+    },
+    {
+      "join": "",
+      "name": "James Brown",
+      "anv": "",
+      "tracks": "",
+      "role": "Written-By",
+      "resource_url": "https://api.discogs.com/artists/12596",
+      "id": 12596
+    },
+    {
+      "join": "",
+      "name": "John Jabo Starks",
+      "anv": "John Starks",
+      "tracks": "",
+      "role": "Written-By",
+      "resource_url": "https://api.discogs.com/artists/391457",
+      "id": 391457
+    }
+  ],
   "tracklist": [
     {
       "duration": "3:30",
@@ -77,5 +224,105 @@
       "type_": "track",
       "title": "The Payback (Part II)"
     }
-  ]
+  ],
+  "notes": "[a=James Brown] - The Hitman - The Godfather Of Soul From the [l=Polydor] LP "[m=33990
+  ]" PD 2-3007 Dynatone Pub. Co./Belinda Music, Inc./Unichappell & Co. ℗ 1973 [l264840] Manufactured By [l264840], New York, N.Y. This version is the Richmond pressing plant variation and can be identified by the image of [a=James Brown]'s head on the printed on labels as well as by the runout groove etchings. For example, on some of the [url=http://www.discogs.com/James-Brown-The-Payback/release/3334865]other versions[/url], he is shown wearing a hat. Comparatively, there is [url=http://www.discogs.com/James-Brown-The-Payback-Alternate-Version/release/5137000]another version[/url] with indistinguishable labels. However, [url=http://www.discogs.com/James-Brown-The-Payback-Alternate-Version/release/5137000]that version[/url] can be identified through playback because DJ [a=Hank Spann] can be heard calling out to various cities and by the side A runout groove etchings.",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "description": "Label side A",
+      "value": "PD 14223 A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "Label side B",
+      "value": "PD 14223 B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "Runout area side A, variant 1",
+      "value": "PD-14223-AS-2B-1-1 PR STERLING RL"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "Runout area side B, variant 1",
+      "value": "PD-14223-BS-2B 1-1 PR [symbol looks like a teardrop or a leaf]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "Runout area side A, variant 2",
+      "value": "PD-14223-AS-2B-1-1 PR STERLING RL"
+    },
+    {
+      "type": "Matrix / Runout",
+      "description": "Runout area side B, variant 2",
+      "value": "PD-14223-BS-1B 1-1 PR [symbol looks like a teardrop or a leaf]"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Polydor Incorporated",
+      "entity_type": "10",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/264840",
+      "id": 264840,
+      "entity_type_name": "Manufactured By"
+    },
+    {
+      "name": "Polydor Incorporated",
+      "entity_type": "13",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/264840",
+      "id": 264840,
+      "entity_type_name": "Phonographic Copyright (p)"
+    },
+    {
+      "name": "Dynatone Publishing Co.",
+      "entity_type": "21",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/291082",
+      "id": 291082,
+      "entity_type_name": "Published By"
+    },
+    {
+      "name": "Belinda Music, Inc.",
+      "entity_type": "21",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/550804",
+      "id": 550804,
+      "entity_type_name": "Published By"
+    },
+    {
+      "name": "Unichappell & Co.",
+      "entity_type": "21",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/560905",
+      "id": 560905,
+      "entity_type_name": "Published By"
+    },
+    {
+      "name": "Sterling Sound",
+      "entity_type": "30",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "id": 264060,
+      "entity_type_name": "Lacquer Cut At"
+    },
+    {
+      "name": "PRC Recording Company, Richmond, IN",
+      "entity_type": "17",
+      "catno": "",
+      "resource_url": "https://api.discogs.com/labels/408779",
+      "id": 408779,
+      "entity_type_name": "Pressed By"
+    }
+  ],
+  "uri": "https://www.discogs.com/James-Brown-The-Payback/release/979747",
+  "country": "US",
+  "resource_url": "https://api.discogs.com/releases/979747",
+  "data_quality": "Needs Vote"
 }
