@@ -1,0 +1,103 @@
+{
+  "styles": [
+    "RnB/Swing"
+  ],
+  "genres": [
+    "Hip Hop",
+    "Stage & Screen"
+  ],
+  "videos": [
+    {
+      "duration": 289,
+      "description": "Official Music Video for Total [feat. The Notorious B.I.G.] - Can't You See from 'Total' (1995)\nSubscribe to the channel http://bit.ly/SubscribeToBadBoy\n\nWatch more Bad Boy videos\nCraig Mack \u2013 Flava In Your Ear (Remix) \u25b6 http://bit.ly/FlavaInYourEar",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=DCMib3DBz60",
+      "title": "Total [feat. The Notorious B.I.G.] - Can't You See (Official Music Video)"
+    }
+  ],
+  "num_for_sale": 262,
+  "title": "Can't You See",
+  "most_recent_release": 13937171,
+  "main_release": 3197599,
+  "main_release_url": "https://api.discogs.com/releases/3197599",
+  "uri": "https://www.discogs.com/Total-Featuring-Notorious-BIG-Cant-You-See/master/78465",
+  "artists": [
+    {
+      "join": "Featuring",
+      "name": "Total",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/51087",
+      "id": 51087
+    },
+    {
+      "join": "",
+      "name": "Notorious B.I.G.",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/65049",
+      "id": 65049
+    }
+  ],
+  "versions_url": "https://api.discogs.com/masters/78465/versions",
+  "data_quality": "Correct",
+  "most_recent_release_url": "https://api.discogs.com/releases/13937171",
+  "year": 1995,
+  "images": [
+    {
+      "uri": "",
+      "height": 500,
+      "width": 500,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "resource_url": "https://api.discogs.com/masters/78465",
+  "lowest_price": 1.14,
+  "id": 78465,
+  "tracklist": [
+    {
+      "duration": "4:54",
+      "position": "A1",
+      "type_": "track",
+      "title": "Can't You See (Vocal)"
+    },
+    {
+      "duration": "4:54",
+      "position": "A2",
+      "type_": "track",
+      "title": "Can't You See (Instrumental)"
+    },
+    {
+      "duration": "4:54",
+      "position": "B1",
+      "type_": "track",
+      "title": "Can't You See (No Rap Vocal)"
+    },
+    {
+      "duration": "4:54",
+      "position": "B2",
+      "type_": "track",
+      "title": "Can't You See (TV Track)"
+    }
+  ]
+}

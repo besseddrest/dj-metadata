@@ -1,0 +1,199 @@
+{
+  "styles": [
+    "RnB/Swing"
+  ],
+  "videos": [
+    {
+      "duration": 289,
+      "description": "Official Music Video for Total [feat. The Notorious B.I.G.] - Can't You See from 'Total' (1995)\nSubscribe to the channel http://bit.ly/SubscribeToBadBoy\n\nWatch more Bad Boy videos\nCraig Mack \u2013 Flava In Your Ear (Remix) \u25b6 http://bit.ly/FlavaInYourEar",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=DCMib3DBz60",
+      "title": "Total [feat. The Notorious B.I.G.] - Can't You See (Official Music Video)"
+    }
+  ],
+  "series": [],
+  "labels": [
+    {
+      "name": "Tommy Boy",
+      "entity_type": "1",
+      "catno": "TB 676",
+      "resource_url": "https://api.discogs.com/labels/26011",
+      "id": 26011,
+      "entity_type_name": "Label"
+    }
+  ],
+  "year": 1995,
+  "community": {
+    "status": "Accepted",
+    "rating": {
+      "count": 12,
+      "average": 4.08
+    },
+    "have": 162,
+    "contributors": [
+      {
+        "username": "djtudde",
+        "resource_url": "https://api.discogs.com/users/djtudde"
+      },
+      {
+        "username": "Bob_Loblaw",
+        "resource_url": "https://api.discogs.com/users/Bob_Loblaw"
+      },
+      {
+        "username": "MaximusMCX",
+        "resource_url": "https://api.discogs.com/users/MaximusMCX"
+      },
+      {
+        "username": "agnew",
+        "resource_url": "https://api.discogs.com/users/agnew"
+      }
+    ],
+    "want": 126,
+    "submitter": {
+      "username": "djtudde",
+      "resource_url": "https://api.discogs.com/users/djtudde"
+    },
+    "data_quality": "Needs Vote"
+  },
+  "artists": [
+    {
+      "join": "Featuring",
+      "name": "Total",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/51087",
+      "id": 51087
+    },
+    {
+      "join": "",
+      "name": "Notorious B.I.G.",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/65049",
+      "id": 65049
+    }
+  ],
+  "images": [
+    {
+      "uri": "",
+      "height": 500,
+      "width": 500,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 600,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "format_quantity": 1,
+  "id": 3197599,
+  "artists_sort": "Total Featuring Notorious B.I.G.",
+  "genres": [
+    "Hip Hop",
+    "Stage & Screen"
+  ],
+  "thumb": "",
+  "num_for_sale": 29,
+  "title": "Can't You See",
+  "date_changed": "2015-03-20T13:12:58-07:00",
+  "master_id": 78465,
+  "lowest_price": 2.9,
+  "status": "Accepted",
+  "released_formatted": "1995",
+  "estimated_weight": 230,
+  "master_url": "https://api.discogs.com/masters/78465",
+  "released": "1995",
+  "date_added": "2011-10-31T13:27:46-07:00",
+  "tracklist": [
+    {
+      "duration": "4:54",
+      "position": "A1",
+      "type_": "track",
+      "title": "Can't You See (Vocal)"
+    },
+    {
+      "duration": "4:54",
+      "position": "A2",
+      "type_": "track",
+      "title": "Can't You See (Instrumental)"
+    },
+    {
+      "duration": "4:54",
+      "position": "B1",
+      "type_": "track",
+      "title": "Can't You See (No Rap Vocal)"
+    },
+    {
+      "duration": "4:54",
+      "position": "B2",
+      "type_": "track",
+      "title": "Can't You See (TV Track)"
+    }
+  ],
+  "extraartists": [
+    {
+      "join": "",
+      "name": "Notorious B.I.G.",
+      "anv": "",
+      "tracks": "",
+      "role": "Featuring",
+      "resource_url": "https://api.discogs.com/artists/65049",
+      "id": 65049
+    },
+    {
+      "join": "",
+      "name": "Herb Middleton",
+      "anv": "",
+      "tracks": "",
+      "role": "Keyboards",
+      "resource_url": "https://api.discogs.com/artists/204926",
+      "id": 204926
+    },
+    {
+      "join": "",
+      "name": "Sean Combs",
+      "anv": "Sean \"Puffy\" Combs",
+      "tracks": "",
+      "role": "Producer",
+      "resource_url": "https://api.discogs.com/artists/173538",
+      "id": 173538
+    }
+  ],
+  "country": "US",
+  "notes": "\"Can't You See\" contains a Sample from \"The Payback\" performed by James Brown.",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "016998067604"
+    }
+  ],
+  "companies": [],
+  "uri": "https://www.discogs.com/Total-Featuring-Notorious-BIG-Cant-You-See/release/3197599",
+  "formats": [
+    {
+      "descriptions": [
+        "12\""
+      ],
+      "name": "Vinyl",
+      "qty": "1"
+    }
+  ],
+  "resource_url": "https://api.discogs.com/releases/3197599",
+  "data_quality": "Needs Vote"
+}
