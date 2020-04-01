@@ -1,0 +1,81 @@
+{
+  "styles": [
+    "Funk"
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "videos": [
+    {
+      "duration": 456,
+      "description": "Are You Experienced? Check Our My Other Channels.\n\nThe Superb Classic Rock Experience (Coming Soon)\nhttps://www.youtube.com/channel/UC8L-...\n\nThe Superb 80's Music Experience (Coming Soon)\nhttps://www.youtube.com/channel/UC-TX...\n\nThe Superb Oldies Experi",
+      "embed": true,
+      "uri": "https://www.youtube.com/watch?v=istJXUJJP0g",
+      "title": "James Brown - Payback"
+    }
+  ],
+  "num_for_sale": 114,
+  "title": "The Payback",
+  "most_recent_release": 9004526,
+  "main_release": 979747,
+  "main_release_url": "https://api.discogs.com/releases/979747",
+  "uri": "https://www.discogs.com/James-Brown-The-Payback/master/188093",
+  "artists": [
+    {
+      "join": "",
+      "name": "James Brown",
+      "anv": "",
+      "tracks": "",
+      "role": "",
+      "resource_url": "https://api.discogs.com/artists/12596",
+      "id": 12596
+    }
+  ],
+  "versions_url": "https://api.discogs.com/masters/188093/versions",
+  "data_quality": "Correct",
+  "most_recent_release_url": "https://api.discogs.com/releases/9004526",
+  "year": 1973,
+  "images": [
+    {
+      "uri": "",
+      "height": 596,
+      "width": 600,
+      "resource_url": "",
+      "type": "primary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 602,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    },
+    {
+      "uri": "",
+      "height": 598,
+      "width": 600,
+      "resource_url": "",
+      "type": "secondary",
+      "uri150": ""
+    }
+  ],
+  "resource_url": "https://api.discogs.com/masters/188093",
+  "lowest_price": 0.95,
+  "id": 188093,
+  "tracklist": [
+    {
+      "duration": "3:30",
+      "position": "A",
+      "type_": "track",
+      "title": "The Payback (Part I)"
+    },
+    {
+      "duration": "4:07",
+      "position": "B",
+      "type_": "track",
+      "title": "The Payback (Part II)"
+    }
+  ]
+}
